@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlenxc)](https://github.com/zlenxc/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlenxc)](https://github.com/zlenxc/github-readme-stats)
+<!-- 예: PHP 배지 -->
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinn99)](https://solved.ac/shinn99)
 
