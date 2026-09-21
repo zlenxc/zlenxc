@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 예: PHP 배지 -->
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinn99)](https://solved.ac/shinn99)
 
 [![Tistory](https://img.shields.io/badge/Tistory-EB5353?style=flat-square&logo=tistory&logoColor=white)](https://repetitivetrainee.tistory.com/)
