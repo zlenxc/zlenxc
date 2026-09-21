@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![solved.ac tier](https://badge.solved.ac/profile/shinn99)](https://solved.ac/profile/shinn99)
+[![Solved.ac Profile](http://mazassumnida.wtf)](https://solved.ac)(https://solved.ac/profile/shinn99)
 [![Tistory](https://img.shields.io/badge/Tistory-EB5353?style=flat-square&logo=tistory&logoColor=white)](https://repetitivetrainee.tistory.com/)
