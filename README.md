@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=쓰고싶은말&fontSize=90)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinn99)](https://solved.ac/shinn99)
 [![Tistory](https://img.shields.io/badge/Tistory-EB5353?style=flat-square&logo=tistory&logoColor=white)](https://repetitivetrainee.tistory.com/)
