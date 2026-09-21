@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **zlenxc/zlenxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](https://solved.ac/profile/shinn99)](https://solved.ac/profile/shinn99)
+[![Tistory](https://img.shields.io/badge/Tistory-EB5353?style=flat-square&logo=tistory&logoColor=white)](https://repetitivetrainee.tistory.com/)
